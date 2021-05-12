@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rest API</string>
+    <string name="splash_title">implementasi &#xA;rest api</string>
+    <string name="restapi_title">apa itu &#xA;rest api ?</string>
+    <string name="restapi_desc">Adalah salah satu tipe API yang hanya mengirim data dari server, Contoh saja Aplikasi berita yang nantinya akan mengirim berita sesuai dari lokasi atau prefrensi kita, API ini biasanya mempunyai format JSON.</string>
+    <string name="retrofit_title">retrofit</string>
+    <string name="retrofit_desc">Sebuah library Android yang membantu developer untuk melakukan request ke sebuah endpoint REST API, library ini menyederhanakan kode program yang digunakan untuk mengakses REST API.</string>
+    <string name="volley_title">volley</string>
+    <string name="volley_desc">Produk yang diperkenalkan oleh Google untuk mempermudah pertukaran data tanpa harus membuat deretan kode yang sangat panjang. Secara default volley menggunakan metode singkronisasi.</string>
+    <string name="praktik_title">praktik</string>
+    <string name="pratik_desc">Pada kesempatan ini kita akan mempraktikkan kedua library tadi, untuk API kita akan menggunakan 2 API Retrofit akan menggunakan NewsAPI dari newsapi.org, sedangkan Volley akan menggunakan API dari Dota Heroes dari api.opendota.com</string>
+    <string name="swipe">swipe</string>
+    <string name="praktik">praktik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
